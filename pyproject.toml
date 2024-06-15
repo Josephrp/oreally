@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "oreally"
+version = "0.1.0"
+description = "a chatbot that asks you what you really think about things for real"
+authors = ["Tonic <tonic@tonic-ai.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8.1,<3.9.7 || >3.9.7,<3.12"
+streamlit = "^1.35.0"
+llama-index = "^0.10.45"
+llama-hub = "^0.0.79.post1"
+wikipedia = "^1.4.0"
+openai = "^1.34.0"
+nltk = "^3.8.1"
+streamlit-pills = "^0.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

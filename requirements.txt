@@ -1,0 +1,7 @@
+streamlit
+llama-index
+llama-hub 
+wikipedia
+openai
+nltk
+streamlit-pills
