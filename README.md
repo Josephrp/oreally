@@ -1,6 +1,10 @@
 # oreally
 a chatbot that asks you what you really think about things for real
 
+## Motivation
+
+people are isolated and constantly bombarded with propaganda that promotes cruelty and glorifies violence in all its forms. what's missing is self-reflection and nothing addresses that better than a conversation. however the opportunities to talk to eachother and collectively reflect are few and far between. Enter Oreally , it's a chat bot that doesnt talk at you but instead asks you questions about what you think about things and keeps asking questions until you find your own answer as to why you might think what you think and if you really think what you say you think and why. then it provides candidate voting records and election information in a easily digestable and accessible form to the user.
+
 
 ## Install and Run
 
