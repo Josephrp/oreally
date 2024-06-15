@@ -17,7 +17,7 @@ from llama_index.core.node_parser import MarkdownNodeParser
 import chromadb.utils.embedding_functions as embedding_functions
 from config import Configs
 from audio import *
-
+import os 
 
 os.environ['OPENAI_API_KEY'] = Configs.open_API_Key
 
