@@ -65,9 +65,10 @@ Once the virtual environment is activated, you can run `main.py` using the Pytho
 poetry run python main.py
 ```
 
-### **References:**
+### **Ackknowledgements:**
 
-- candidate information : https://github.com/votesmart/python-votesmart  // https://api.votesmart.org/docs/index.html
-- policy : https://ballotpedia.org/Main_Page
-- llamaindex web reader : https://docs.llamaindex.ai/en/latest/api_reference/readers/web/
+- [candidate information from votesmart](https://api.votesmart.org/docs/index.html)
+- [policy information by Ballotpedia](https://ballotpedia.org/Main_Page)
+- [llamaindex framework](https://docs.llamaindex.ai/en/latest/api_reference/readers/web/)
+- [llama-hub open source community contributions](https://llamahub.ai/)
 
